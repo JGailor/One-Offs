@@ -1,0 +1,12 @@
+animals = ["bear", "tiger", "penguin", "zebra"]
+bear = animals[0]
+
+animals = ['bear', 'python', 'peacock', 'kangaroo', 'whale', 'platypus']
+print "The animal at 1 is a python: %r" % animals[1]
+print "The 3rd animal is a peacock: %r" % animals[2]
+print "The 1st animal is a bear: %r" % animals[0]
+print "The animal at 3 is a kangaroo: %r" % animals[3]
+print "The 5th animal is a whale: %r" % animals[4]
+print "The animal at 2 is a peacock: %r" % animals[2]
+print "The 6th animal is a platypus: %r" % animals[5]
+print "The animal at 4 is a whale: %r" % animals[4]
